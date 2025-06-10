@@ -5,13 +5,21 @@ Assignment submission reminder
 
 submission_reminder_{yourName}/
 ├── app/
+
 │ └── reminder.sh
+
 ├── modules/
+
 │ └── functions.sh
+
 ├── assets/
+
 │ └── submissions.txt
+
 ├── config/
+
 │ └── config.env
+
 └── startup.sh
 
 Step 2: Run the Environment Setup Script
