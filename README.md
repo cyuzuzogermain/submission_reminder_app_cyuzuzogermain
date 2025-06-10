@@ -4,6 +4,7 @@ Assignment submission reminder
 ## 📁 Project Structure
 
 submission_reminder_{yourName}/
+
 ├── app/
 
 │ └── reminder.sh
